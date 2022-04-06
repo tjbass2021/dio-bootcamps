@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "f62223018e508dea",
+    "type": "split",
+    "children": [
+      {
+        "id": "232ebbb2d581df25",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bootcamps/carrefour-web-developer/primeiros-passos-para-desenvolvimento-web/001-como-funciona-a-internet.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4db52ef2631747e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b08ecdd3e2e4725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59b0a9ff2c0bddd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6de4dd71a54f2be7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "716586afb36aee70",
+    "type": "split",
+    "children": [
+      {
+        "id": "a420f3b08937c455",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2a5b3dc36e80a75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "bootcamps/carrefour-web-developer/primeiros-passos-para-desenvolvimento-web/001-como-funciona-a-internet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "232ebbb2d581df25",
+  "lastOpenFiles": [
+    "bootcamps/carrefour-web-developer/primeiros-passos-para-desenvolvimento-web/001-como-funciona-a-internet.md"
+  ]
+}
